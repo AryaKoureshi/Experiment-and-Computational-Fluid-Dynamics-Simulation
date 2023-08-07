@@ -18,26 +18,30 @@ This repository contains the code and data for simulating and analyzing the hydr
 
 ---
 
-## Area vs Height
+### Area vs Height
 
 <p align=center>
-  <img width="50%" src="A_H.png">
+  <img width="70%" src="A_H.png">
 </p>
 
-## Diameter vs Height
+### Diameter vs Height
 
 <p align=center>
-  <img width="50%" src="D_H.png">
+  <img width="70%" src="D_H.png">
 </p>
 
-## Speed vs Height
+### Speed vs Height
 
 <p align=center>
-  <img width="50%" src="S_H.png">
+  <img width="70%" src="S_H.png">
 </p>
+
+---
 
 ## Dataset
 
 You can download the dataset that I used for this simulation from [here](https://drive.google.com/file/d/1LyuvEW3IyNcN5i4ySK2DIUBqZkvhhiwx/view?usp=sharing)
+
+---
 
 ## [Link of Article](https://pubs.acs.org/doi/10.1021/acs.iecr.2c04183?ref=pdf)
